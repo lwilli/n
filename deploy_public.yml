@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: deploy_public
 
 # Controls when the workflow will run
@@ -23,11 +21,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
+          # checkout this repo into the notes directory
           path: 'notes'
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         env:
+          # Use the personal access token that I generated and stored in this repo's secrets
+          # $GITHUB_TOKEN wasn't good enough because it only has permissions to this repo
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           # Copy adds/changes from #public files in 'notes' to 'n'
@@ -51,4 +52,6 @@ jobs:
           
           echo "> Pushing updated files to the 'n' repo"
           git commit -m "Automated updates"
-          git push "https://lwilli:$PERSONAL_ACCESS_TOKEN@github.com/lwilli/n.git" --set-upstream main
+          git push "https://$GITHUB_ACTOR:$PERSONAL_ACCESS_TOKEN@github.com/lwilli/n.git" --set-upstream main
+
+          echo "> Done!"
