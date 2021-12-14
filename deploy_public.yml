@@ -1,3 +1,8 @@
+# This workflow looks for any files containing "#public" and for each of those files,
+# it copies the changes from this repo into the 'n' repo. 
+# WARNING: This doesn't support deleting files when "#public" no longer appears in the
+# source file.
+
 name: deploy_public
 
 # Controls when the workflow will run
