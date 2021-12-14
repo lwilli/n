@@ -1,0 +1,54 @@
+# This is a basic workflow to help you get started with Actions
+
+name: deploy_public
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "copy_files"
+  copy_files:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+          path: 'notes'
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          # Copy adds/changes from #public files in 'notes' to 'n'
+          set -e  # if a command fails it stops the execution
+          set -u  # script fails if trying to access to an undefined variable
+          
+          echo "> Finding files containing '#public'"
+          mkdir to-copy
+          cd notes
+          grep -rlZ "#public" . | xargs -0 cp -t ../to-copy
+          cd ..
+          git clone --branch main --depth 1 https://github.com/lwilli/n.git n
+          cp -R to-copy/* n/
+          cd n
+          git config --global user.name "lwilli"
+          git config --global user.email "loganwilliams116@gmail.com"
+          git add -A
+          
+          echo "> Updated files to push:"
+          git status
+          
+          echo "> Pushing updated files to the 'n' repo"
+          git commit -m "Automated updates"
+          git push "https://lwilli:$PERSONAL_ACCESS_TOKEN@github.com/lwilli/n.git" --set-upstream main
