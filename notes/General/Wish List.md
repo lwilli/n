@@ -5,25 +5,25 @@ Tag(s): #public
 **Wish List**
 
 * Tools
+	* **Impact driver**
 	* Angle grinder
 	* Torque wrench
 	* circle hole cutout bits
-	* Impact driver
 * Bike stuff
-    * https://shop.gmbn.com/gmbn-adventure-mountain-t-shirt
+    * gloves
 * Kitchen/cooking stuff
-	* KitchenAid pasta maker attachment
-	* pepper (and salt?) grinder
-	* electric rechargeable lighter (something like https://theusblightercompany.com/collections/all-one/products/motli-olive)
+	* electric rechargeable lighter (something like [this one](https://theusblightercompany.com/collections/all-one/products/motli-olive))
+	* pepper (and salt?) grinders
 	* Kitchen scale
+	* KitchenAid pasta maker attachment
 	* bbq thermometer probe (DOT thermoworks?)
+* **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
+* **CSB Bible**
 - NES Classic Edition
 * Car phone charger/holder (iPhone MagSafe)
-* Miner league hat (https://minerleague.store/products/m-hat-miner-league)
+* [Miner league hat](https://minerleague.store/products/m-hat-miner-league)
+* [Bug-a-salt](https://www.bugasalt.com/pages/shop-collections#threezero)
 * Back massager hook thing (self-massage)
-* Bug-a-salt
-* CSB Bible
-* Advent blocks (https://goodkind.shop/products/advent-blocks-traditions-mode)
 
 
 ---
