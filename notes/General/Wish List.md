@@ -2,25 +2,38 @@
 Tag(s): #public
 ---
 
-**Wish List**
+# Wish List
 
-* Tools
-	* **Impact driver**
-	* Angle grinder
-	* Torque wrench
-	* circle hole cutout bits
-* Bike stuff
-    * gloves
-* Kitchen/cooking stuff
-	* electric rechargeable lighter (something like [this one](https://theusblightercompany.com/collections/all-one/products/motli-olive))
-	* pepper (and salt?) grinders
-	* Kitchen scale
-	* KitchenAid pasta maker attachment
-	* bbq thermometer probe (DOT thermoworks?)
+Bolded things are most wanted.
+
+### Tools 
+* **Impact driver**
+* Angle grinder
+* Torque wrench
+* circle hole cutout bits
+* simple pocket hole jig
+
+### Bike stuff
+* gloves
+
+### Kitchen/cooking stuff
+* electric rechargeable lighter (something like [this one](https://theusblightercompany.com/collections/all-one/products/motli-olive))
+* pepper (and salt?) grinders
+* Kitchen scale
+* KitchenAid pasta maker attachment
+* bbq thermometer probe (DOT thermoworks?)
+
+### Christian stuff
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
 * **CSB Bible**
-- NES Classic Edition
+
+### Games
+- NES Classic Edition (darn, looks like they don't make them anymore)
+
+### Clothes
+- [Miner league hat](https://minerleague.store/products/m-hat-miner-league) (has been out of stock for a long time)
+- hoodie
+
+### Misc
 * Car phone charger/holder (iPhone MagSafe)
-* [Miner league hat](https://minerleague.store/products/m-hat-miner-league)
 * [Bug-a-salt](https://www.bugasalt.com/pages/shop-collections#threezero)
-* Back massager hook thing (self-massage)
