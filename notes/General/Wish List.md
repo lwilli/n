@@ -22,6 +22,7 @@ Bolded things are most wanted.
 * Kitchen scale
 * KitchenAid pasta maker attachment
 * bbq thermometer probe (DOT thermoworks?)
+* Ice cream maker?
 
 ### Christian stuff
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
