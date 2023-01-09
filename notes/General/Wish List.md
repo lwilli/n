@@ -17,12 +17,10 @@ Bolded things are most wanted.
 * gloves
 
 ### Kitchen/cooking stuff
-* electric rechargeable lighter (something like [this one](https://theusblightercompany.com/collections/all-one/products/motli-olive))
 * pepper (and salt?) grinders
 * Kitchen scale
 * KitchenAid pasta maker attachment
-* bbq thermometer probe (DOT thermoworks?)
-* Ice cream maker?
+ Ice cream maker?
 
 ### Christian stuff
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
