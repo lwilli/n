@@ -7,7 +7,6 @@ Tag(s): #public
 Bolded things are most wanted.
 
 ### Tools 
-* **Impact driver**
 * Angle grinder
 * Torque wrench
 * circle hole cutout bits
@@ -17,7 +16,7 @@ Bolded things are most wanted.
 * gloves
 
 ### Kitchen/cooking stuff
-* pepper (and salt?) grinders
+* Just One Cookbook cookbooks (by Namiko)
 * Kitchen scale
 * KitchenAid pasta maker attachment
  Ice cream maker?
