@@ -12,8 +12,8 @@ Bolded things are most wanted.
 * Damaged screw remover bits
 
 ### Bike stuff
-* gloves
 * Grips screw on
+* Gloves (I need to find a specific link, I want a specific kind)
 
 ### Kitchen/cooking stuff
 * Just One Cookbook cookbooks (by Namiko)
