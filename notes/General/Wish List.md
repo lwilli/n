@@ -14,6 +14,7 @@ Bolded things are most wanted.
 ### Bike stuff
 * Grips screw on
 * Gloves (I need to find a specific link, I want a specific kind)
+* bike tow rope ([like this one]([](https://kidsrideshotgun.com/products/mtb-tow-rope)))
 
 ### Kitchen/cooking stuff
 * Just One Cookbook cookbooks (by Namiko)
