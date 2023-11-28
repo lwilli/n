@@ -19,7 +19,8 @@ Bolded things are most wanted.
 ### Kitchen/cooking stuff
 * Just One Cookbook cookbooks (by Namiko)
 * KitchenAid pasta maker attachment
- Ice cream maker?
+* Ice cream maker?
+* Small saucepan, maybe stainless steel? Like the kind for making small amounts of sauce.
 
 ### Christian stuff
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
