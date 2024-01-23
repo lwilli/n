@@ -4,23 +4,19 @@ Tag(s): #public
 
 # Wish List
 
-Bolded things are most wanted.
-
 ### Tools 
 * Torque wrench
 * circle hole cutout bits
-* Damaged screw remover bits
-
 ### Bike stuff
 * Grips screw on
 * Gloves (I need to find a specific link, I want a specific kind)
 * bike tow rope ([like this one]([](https://kidsrideshotgun.com/products/mtb-tow-rope)))
 
 ### Kitchen/cooking stuff
-* Just One Cookbook cookbooks (by Namiko)
 * KitchenAid pasta maker attachment
-* Ice cream maker?
-* Small saucepan, maybe stainless steel? Like the kind for making small amounts of sauce.
+### Books
+- [Daily Strength - A Devotional for Men](https://www.google.com/books/edition/Daily_Strength/qWJaEAAAQBAJ?hl=en)
+- The Men We Need by Brant Hansen
 
 ### Christian stuff
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
@@ -29,7 +25,7 @@ Bolded things are most wanted.
 - NES Classic Edition (darn, looks like they don't make them anymore)
 
 ### Clothes
-- hoodie
+- 
 
 ### Misc
-* [Bug-a-salt](https://www.bugasalt.com/pages/shop-collections#threezero)
+* 
