@@ -14,7 +14,7 @@ Tag(s): #public
 * bike tow rope ([like this one]([](https://kidsrideshotgun.com/products/mtb-tow-rope)))
 
 ### Kitchen/cooking stuff
-* KitchenAid pasta maker attachment
+- 
 
 ### Books
 - [Daily Strength - A Devotional for Men](https://www.google.com/books/edition/Daily_Strength/qWJaEAAAQBAJ?hl=en)
