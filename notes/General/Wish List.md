@@ -10,7 +10,6 @@ Tag(s): #public
 
 ### Bike stuff
 * Grips screw on
-* Gloves (I need to find a specific link, I want a specific kind)
 * bike tow rope ([like this one]([](https://kidsrideshotgun.com/products/mtb-tow-rope)))
 
 ### Kitchen/cooking stuff
@@ -25,8 +24,7 @@ Tag(s): #public
 * **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
 
 ### Games
-- NES Classic Edition (darn, looks like they don't make them anymore)
-- Nintendo OLED Switch?
+- 
 
 ### Clothes
 - 
