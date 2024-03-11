@@ -10,7 +10,7 @@ Tag(s): #public
 
 ### Bike stuff
 * Grips (screw on)
-* bike tow rope ([like this one]([](https://kidsrideshotgun.com/products/mtb-tow-rope)))
+* bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
 * Biking glasses (maybe the kind that darken in the sun but are not dark in the dark)
 
 ### Kitchen/cooking stuff
