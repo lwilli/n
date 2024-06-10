@@ -9,7 +9,7 @@ Tag(s): #public
 
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
-* Biking glasses (maybe the kind that darken in the sun but are not dark in the dark)
+* Kids front-mounted seat (like [this one](https://kidsrideshotgun.com/products/shotgun-kids-mtb-seat))
 
 ## Truck stuff
 - tailgate bike pad (midsize https://www.raceface.com/products/t2-tailgate-pad?variant=39863878484050 or https://shop.ridefox.com/products/overland-tailgate-pad?variant=40265981952059)
