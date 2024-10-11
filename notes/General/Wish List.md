@@ -13,7 +13,6 @@ Tag(s): #public
 
 ## Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
-- dash cam? (maybe, I need to research this)
 
 ### Kitchen/cooking stuff
 - 
@@ -32,4 +31,5 @@ Tag(s): #public
 
 ### Misc
 - [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
+- AirPods?
 
