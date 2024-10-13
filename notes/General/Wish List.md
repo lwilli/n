@@ -5,11 +5,12 @@ Tag(s): #public
 # Wish List
 
 ### Tools 
-* 
+* car battery jump pack
 
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
 * Kids front-mounted seat (like [this one](https://kidsrideshotgun.com/products/shotgun-kids-mtb-seat))
+* timber! Mountain Bike Bell ([this one](https://mtbbell.com/collections/mountain-bike-bells/products/model-yew-bolt-on-mountain-bike-bell))
 
 ## Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
