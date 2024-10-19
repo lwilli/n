@@ -1,9 +1,12 @@
 ---
 Tag(s): #public
 ---
+# Wish Lists
+
 # Breezy’s Wish List
-- _Every Moment Holy_ by 
+- _Every Moment Holy, Vol. 1_ by Douglas McKelvey
 - Dish towels
+- Board games (2+ players)
 
 # Myah’s Wish List
 - clothes (6-9 months and up)
@@ -37,22 +40,9 @@ Tag(s): #public
 ## Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
 
-### Kitchen/cooking stuff
-- 
-
 ### Books
 - [Daily Strength - A Devotional for Men](https://www.google.com/books/edition/Daily_Strength/qWJaEAAAQBAJ?hl=en)
-
-### Christian stuff
-* **Advent blocks (like [this](https://goodkind.shop/products/advent-blocks-traditions-mode))**
-
-### Games
-- 
-
-### Clothes
-- 
 
 ### Misc
 - [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
 - AirPods?
-
