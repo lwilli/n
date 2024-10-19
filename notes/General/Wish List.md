@@ -16,6 +16,7 @@ Tag(s): #public
 -  4/11/24 A shirt with a picture of his Teddy on it
 - 7/3/24: a superhero cape
 - 7/4/24: a sun hat
+- Step Into Reading (Step 1) books
 
 # Kids’ Wish List
 - paint
