@@ -32,6 +32,7 @@ Tag(s): #public
 ### Tools 
 * car battery jump pack
 * Flash light
+* Bungee cords
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
 * Kids front-mounted seat (like [this one](https://kidsrideshotgun.com/products/shotgun-kids-mtb-seat))
