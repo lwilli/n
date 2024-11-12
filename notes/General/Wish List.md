@@ -9,12 +9,14 @@ Tag(s): #public
 ## Wesley’s Wish List 
 - hat (ball cap)
 - 5/13/24: Knight Owl book
+- Water Wows
 
 ## Jonah’s Wish List
 -  4/11/24 A shirt with a picture of his Teddy on it
 - 7/3/24: a superhero cape
 - 7/4/24: a sun hat
 - Step Into Reading (Step 1) books
+- 11/11/24: Drawing pad/tablet thing
 
 ## Kids’ Wish List
 - paint
