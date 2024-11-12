@@ -33,7 +33,6 @@ Tag(s): #public
 
 ### Tools 
 * car battery jump pack
-* Flash light
 * Bungee cords
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
@@ -42,12 +41,15 @@ Tag(s): #public
 ### Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
 ### Books
+- A Diary of Private Prayer by John Baillie
+- Practicing the Way by John Mark Comer
 - [Daily Strength - A Devotional for Men](https://www.google.com/books/edition/Daily_Strength/qWJaEAAAQBAJ?hl=en)
+- When People Are Big and God is Small by Edward T. Welch
+- Coach Wooden’s Pyramid of Success
 ### Apparel
 - https://www.amberjack.shop/products/the-original-carbon size 10.5
 - A hat
 ### Misc
 - [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
-- AirPods?
 - Adjustable dumbells
 - adjustable weight Bench
