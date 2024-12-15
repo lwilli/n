@@ -28,6 +28,7 @@ Tag(s): #public
 - _Every Moment Holy, Vol. 1_ by Douglas McKelvey
 - Dish towels
 - Board games (2+ players)
+- Clothes
 
 ## Logan’s Wish List
 
@@ -47,8 +48,10 @@ Tag(s): #public
 - Coach Wooden’s Pyramid of Success
 ### Apparel
 - https://www.amberjack.shop/products/the-original-carbon size 10.5
-- A hat
+- A hat (maybe not beer-related)
 ### Misc
 - [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
 - Adjustable dumbells
 - adjustable weight Bench
+- Scale (for bodies not food)
+- Phone tripod mount 
