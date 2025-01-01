@@ -23,7 +23,6 @@ Tag(s): #public
 - Paint brushes 
 - Board games
 - Highlights magazine subscription 
-
 ## Breezy’s Wish List
 - _Every Moment Holy, Vol. 1_ by Douglas McKelvey
 - Dish towels
@@ -37,8 +36,6 @@ Tag(s): #public
 * Bungee cords
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
-* Kids front-mounted seat (like [this one](https://kidsrideshotgun.com/products/shotgun-kids-mtb-seat))
-* timber! Mountain Bike Bell ([this one](https://mtbbell.com/collections/mountain-bike-bells/products/model-yew-bolt-on-mountain-bike-bell))
 ### Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
 ### Books
@@ -48,7 +45,6 @@ Tag(s): #public
 - Coach Wooden’s Pyramid of Success
 ### Apparel
 - https://www.amberjack.shop/products/the-original-carbon size 10.5
-- A hat (maybe not beer-related)
 ### Misc
 - [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
 - Adjustable dumbells
