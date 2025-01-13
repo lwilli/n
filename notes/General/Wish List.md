@@ -17,6 +17,7 @@ Tag(s): #public
 - 7/4/24: a sun hat
 - Step Into Reading (Step 1) books
 - 11/11/24: Drawing pad/tablet thing
+- 1/7/25: Nike Air Force 1 Low EasyOn (White/Malachite/White)
 
 ## Kids’ Wish List
 - paint
