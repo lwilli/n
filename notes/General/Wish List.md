@@ -9,6 +9,7 @@ Tag(s): #public
 ## Wesley’s Wish List 
 - hat (ball cap)
 - 5/13/24: Knight Owl book
+- 5/26/24: stuffed animal snake, spider
 - Water Wows
 
 ## Jonah’s Wish List
