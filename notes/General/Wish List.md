@@ -14,11 +14,12 @@ Tag(s): #public
 
 ## Jonah’s Wish List
 -  4/11/24 A shirt with a picture of his Teddy on it
-- 7/3/24: a superhero cape
 - 7/4/24: a sun hat
 - Step Into Reading (Step 1) books
 - 11/11/24: Drawing pad/tablet thing
 - 1/7/25: Nike Air Force 1 Low EasyOn (White/Malachite/White)
+- 2/28/25: fox puppet (from Therapy)
+- 2/28/25: hedgehog puppet from Therapy
 
 ## Kids’ Wish List
 - paint
@@ -35,7 +36,6 @@ Tag(s): #public
 
 ### Tools 
 * car battery jump pack
-* Bungee cords
 ### Bike stuff
 * bike tow rope ([like this one](https://kidsrideshotgun.com/products/mtb-tow-rope))
 ### Truck stuff
