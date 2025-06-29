@@ -4,13 +4,11 @@ Tag(s): #public
 # Wish Lists
 
 ## Myah’s Wish List
-- clothes (6-9 months and up)
+- 
 
 ## Wesley’s Wish List 
-- hat (ball cap)
 - 5/13/24: Knight Owl book
 - 5/26/24: stuffed animal snake, spider
-- Water Wows
 
 ## Jonah’s Wish List
 -  4/11/24 A shirt with a picture of his Teddy on it
@@ -20,6 +18,8 @@ Tag(s): #public
 - 1/7/25: Nike Air Force 1 Low EasyOn (White/Malachite/White)
 - 2/28/25: fox puppet (from Therapy)
 - 2/28/25: hedgehog puppet from Therapy
+- 6/1/25: belt
+- 6/19/25: stuffed animal snake
 
 ## Kids’ Wish List
 - paint
@@ -48,8 +48,6 @@ Tag(s): #public
 ### Apparel
 - https://www.amberjack.shop/products/the-original-carbon size 10.5
 ### Misc
-- [ZSA Voyager keyboard](https://www.zsa.io/voyager/buy) (white, US, Kailh Choc Red)
 - Adjustable dumbells
-- adjustable weight Bench
-- Scale (for bodies not food)
+- adjustable weight bench
 - Phone tripod mount 
