@@ -11,8 +11,8 @@ Tag(s): #public
 - 5/26/24: stuffed animal snake, spider
 
 ## Jonah’s Wish List
+- Logan’s idea: https://www.crunchlabs.com/products/build-box-subscription
 -  4/11/24 A shirt with a picture of his Teddy on it
-- 7/4/24: a sun hat
 - Step Into Reading (Step 1) books
 - 11/11/24: Drawing pad/tablet thing
 - 1/7/25: Nike Air Force 1 Low EasyOn (White/Malachite/White)
