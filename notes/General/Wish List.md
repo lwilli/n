@@ -41,8 +41,8 @@ Tag(s): #public
 ### Truck stuff
 - wireless Apple CarPlay adapter (maybe Carlinkit 3.0 or 4.0?)
 ### Books
+- Ben and Jerry’s Ice Cream recipe book
 - A Diary of Private Prayer by John Baillie
-- [Daily Strength - A Devotional for Men](https://www.google.com/books/edition/Daily_Strength/qWJaEAAAQBAJ?hl=en)
 - When People Are Big and God is Small by Edward T. Welch
 - Coach Wooden’s Pyramid of Success
 ### Apparel
