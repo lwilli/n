@@ -9,6 +9,7 @@ Tag(s): #public
 ## Wesley’s Wish List 
 - 5/13/24: Knight Owl book
 - 5/26/24: stuffed animal snake, spider
+- Bike wheel lights 
 
 ## Jonah’s Wish List
 - Logan’s idea: https://www.crunchlabs.com/products/build-box-subscription
@@ -20,6 +21,7 @@ Tag(s): #public
 - 2/28/25: hedgehog puppet from Therapy
 - 6/1/25: belt
 - 6/19/25: stuffed animal snake
+- Bike wheel lights 
 
 ## Kids’ Wish List
 - paint
