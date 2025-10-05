@@ -19,7 +19,6 @@ Tag(s): #public
 - 1/7/25: Nike Air Force 1 Low EasyOn (White/Malachite/White)
 - 2/28/25: fox puppet (from Therapy)
 - 2/28/25: hedgehog puppet from Therapy
-- 6/1/25: belt
 - 6/19/25: stuffed animal snake
 - Bike wheel lights 
 
